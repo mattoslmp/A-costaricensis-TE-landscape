@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "A. costaricensis transposable-element landscape: scripts, source data and publication figures"
+message: "If you use these scripts, data, or figures, please cite this repository."
+type: software
+authors:
+  - family-names: Pereira
+    given-names: Leandro de Mattos
+repository-code: "https://github.com/mattoslmp/A-costaricensis-TE-landscape"
+url: "https://github.com/mattoslmp/A-costaricensis-TE-landscape"
+version: 1.0.0
+date-released: 2026-06-26
+keywords:
+  - transposable elements
+  - Angiostrongylus costaricensis
+  - repeat landscape
+  - Kimura 2-parameter
+  - K2P
